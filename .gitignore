@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+kompetitive-algorithms.iml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
