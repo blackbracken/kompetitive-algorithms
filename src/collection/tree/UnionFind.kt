@@ -1,4 +1,4 @@
-package tree
+package collection.tree
 
 private class UnionFind(N: Int) {
     private val parent = IntArray(N) { -1 }
